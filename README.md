@@ -24,4 +24,10 @@ This was resolved by installing tkinter in my WSL Ubuntu environment:
 > sudo apt-get install python3-tk
 > 
 
+The weather data from the project came from NOAA:
+https://ncdc.noaa.gov/cdo-web/.
+
+data directory:
+sitka_weather_07-2018_simple.csv - weather data for Sitka, Alaska
+
 
