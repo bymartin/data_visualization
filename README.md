@@ -24,10 +24,17 @@ This was resolved by installing tkinter in my WSL Ubuntu environment:
 > sudo apt-get install python3-tk
 > 
 
-The weather data from the project came from NOAA:
+The weather data from the project came from NOAA (csv format):
 https://ncdc.noaa.gov/cdo-web/.
 
+Earthquake data (json):
+https://earthquake.usgs.gov/earthquakes/feed/
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+
+World Fires:
+https://earthdata.nasa.gov/earthobservation-data/near-real-time/firms/active-fire-data/
+
 data directory:
-sitka_weather_07-2018_simple.csv - weather data for Sitka, Alaska
+input files for the programs
 
 
