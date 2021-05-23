@@ -13,6 +13,9 @@ Example visualizations: https://matplotlib.org/stable/gallery/index.html
 
 Install Plotly
 Gallery of chart types at https://plot.ly/python/
+Plotly User Guide in Python at https://plot.ly/python/userguide/
+The python figure reference at https://plot.ly/python/reference/
+shows all the settings to configure Plotly visualizations.
 > python3 -m pip install --user plotly
 
 Install Requests
@@ -39,5 +42,8 @@ https://earthdata.nasa.gov/earthobservation-data/near-real-time/firms/active-fir
 
 data directory:
 input files for the programs
+
+GitHub API documentation at https://developer.github.com/v3/
+
 
 
